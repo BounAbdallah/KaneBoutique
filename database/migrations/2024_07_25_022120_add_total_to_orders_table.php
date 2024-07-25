@@ -1,4 +1,5 @@
 <?php
+//////////////////////////////////////////Ajout de la colonne total dans la table orders/////////////////////////////////////////
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;

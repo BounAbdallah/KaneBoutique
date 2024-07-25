@@ -1,4 +1,5 @@
 <?php
+////////////Configuration du controller pour les Produits///////////
 
 namespace App\Http\Controllers\Admin;
 

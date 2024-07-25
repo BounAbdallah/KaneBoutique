@@ -1,5 +1,7 @@
 <?php
 
+/////////// Configuration du controller pour les Commandes Utilisateurs //////////
+
 namespace App\Http\Controllers;
 
 use App\Models\Order;

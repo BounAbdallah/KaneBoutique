@@ -1,4 +1,5 @@
 <?php
+////////////Configuration du controller pour les Utilisateurs///////////
 
 namespace App\Http\Controllers\Admin;
 

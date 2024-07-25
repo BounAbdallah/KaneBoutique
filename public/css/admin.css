@@ -1,0 +1,65 @@
+/* public/css/admin.css */
+
+body {
+    background-color: #EDF2EE;
+}
+
+.custom-container {
+    background-color: #EDF2EE;
+}
+
+.custom-heading {
+    color: #002603;
+}
+
+.btn-custom {
+    background-color: #618062;
+    color: #EDF2EE;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #4d6d52;
+    color: #EDF2EE;
+}
+
+.custom-alert {
+    background-color: #618062;
+    color: #EDF2EE;
+}
+
+.custom-table {
+    background-color: #EDF2EE;
+    color: #002603;
+}
+
+.custom-table th {
+    background-color: #618062;
+    color: #EDF2EE;
+}
+
+.custom-table td {
+    background-color: #EDF2EE;
+    color: #002603;
+}
+
+.custom-btn {
+    background-color: #618062;
+    color: #EDF2EE;
+    border: none;
+}
+
+.custom-btn:hover {
+    background-color: #4d6d52;
+    color: #EDF2EE;
+}
+
+.custom-btn.btn-danger {
+    background-color: #E45C5C;
+    color: #EDF2EE;
+}
+
+.custom-btn.btn-danger:hover {
+    background-color: #B04141;
+    color: #EDF2EE;
+}
